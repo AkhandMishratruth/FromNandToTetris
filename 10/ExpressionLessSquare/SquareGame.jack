@@ -3,7 +3,7 @@
 // by Nisan and Schocken, MIT Press.
 // File name: projects/10/ExpressionLessSquare/SquareGame.jack
 
-/** Expressionless version of projects/10/Square/SquareGame.jack. */
+//** Expressionless version of projects/10/Square/SquareGame.jack. */
 
 class SquareGame {
    field Square square; 
